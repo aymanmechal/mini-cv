@@ -2,6 +2,10 @@
 
 Page de CV personnelle en HTML, CSS et sans dépendance.
 
+## Démo
+
+Page en ligne : https://aymanmechal.github.io/mini-cv/
+
 ## Aperçu
 
 Une page unique `index.html` avec :
