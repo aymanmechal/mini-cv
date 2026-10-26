@@ -1,0 +1,18 @@
+# Dépendances installées
+node_modules/
+
+# Secrets et variables d'environnement
+.env
+
+# Fichiers compilés
+dist/
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+
+# Réglages perso de l'éditeur
+.idea/
+.vscode/
